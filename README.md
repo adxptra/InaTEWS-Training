@@ -1,6 +1,6 @@
 ## InaTEWS Training Python - Obspy - PyGMT
 
-Thanks to Dr. Zulfakriza who made all of this notebooks
+Thanks to Dr. Zulfakriza who've made all of this notebooks
 
 ## You can also open the notebooks in the Binder application online...
 
