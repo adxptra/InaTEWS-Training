@@ -1,5 +1,7 @@
 ## InaTEWS Training Python - Obspy - PyGMT
 
+Thanks to Dr. Zulfakriza who made all of this notebooks
+
 ## You can also open the notebooks in the Binder application online...
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seismologie/InaTEWS-Training/main)
