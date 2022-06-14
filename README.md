@@ -2,7 +2,7 @@
 
 ## You can also open the notebooks in the Binder application online...
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seismologie/Latihan/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seismologie/Latihan/main)
 
 ## Install libraries
 
