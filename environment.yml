@@ -6,3 +6,6 @@ dependencies:
   - pygmt
   - scipy
   - obspy
+  - pip
+  - pip:
+    - sourcespec
